@@ -7,8 +7,8 @@ i:Eisenerz.png:Eisenerz-1d7817e0525e2b9e8eef869b1bca4fb6.png:656:image/png:1
 i:Entladen.png:Entladen-2ee5d47e55605d64a4a28a366121d267.png:1153:image/png:1
 i:Mine5.png:Mine5-634f402e8464487ad4680277fa3c7b19.png:1383:image/png:1
 i:Sand.png:Sand-d9d5978dc0a256f30043e96d9a3d66b7.png:592:image/png:1
-i:schinen.png:schinen-35cda5a35c98a29a3150808f2c0c96bb.png:884:image/png:1
-i:Schine_kurve.png:Schine_kurve-6bbbe0951cfc83be497b9b7fbd103994.png:11478:image/png:1
+i:Schine2.png:Schine2-2c7c31373e69c2ffb3776a8c4eb411ef.png:1185:image/png:1
+i:Schine_kurve2.png:Schine_kurve2-7497a9d6e9028f72fa5c2ed38dbbd0ed.png:4753:image/png:1
 i:station.png:station-0f3c805693fda68399d8c621a0cb6bec.png:1132:image/png:1
 i:Stein.png:Stein-5548a8737874167cb88dec9475c40c56.png:593:image/png:1
 i:Zug.png:Zug-ee86a58eec119bea578efd1e2890347f.png:1083:image/png:1
