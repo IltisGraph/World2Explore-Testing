@@ -1,4 +1,5 @@
 d:assets:assets:0:application/unknown:1
+i:Circle.png:Circle-a3eea67cf98d333015c7a6c1333f5f36.png:21072:image/png:1
 i:Copper_icon.png:Copper_icon-2e5135372568fd92bfe6f5cfe19471d0.png:1134:image/png:1
 i:Eisenerz.png:Eisenerz-1d7817e0525e2b9e8eef869b1bca4fb6.png:656:image/png:1
 i:Entladen.png:Entladen-2ee5d47e55605d64a4a28a366121d267.png:1153:image/png:1
