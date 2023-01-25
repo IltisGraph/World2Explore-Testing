@@ -3,6 +3,8 @@ i:Circle.png:Circle-a3eea67cf98d333015c7a6c1333f5f36.png:21072:image/png:1
 i:Copper_icon.png:Copper_icon-2e5135372568fd92bfe6f5cfe19471d0.png:1134:image/png:1
 i:Eisenerz.png:Eisenerz-1d7817e0525e2b9e8eef869b1bca4fb6.png:656:image/png:1
 i:Entladen.png:Entladen-2ee5d47e55605d64a4a28a366121d267.png:1153:image/png:1
+i:Foerderband_gerade.png:Foerderband_gerade-03d859c6636ca0d1e276072f1293b398.png:839:image/png:1
+i:Foerderband_kurve.png:Foerderband_kurve-52e09b93cf679584be75cf849c3bca31.png:2634:image/png:1
 i:Green_sign_icon.png:Green_sign_icon-efd9ea99905980fa3d450b3d47789dfe.png:1745:image/png:1
 i:Mine5.png:Mine5-634f402e8464487ad4680277fa3c7b19.png:1383:image/png:1
 i:minus_icon.png:minus_icon-1a8c48eb3a83c591c04d162f08cc675d.png:742:image/png:1
@@ -15,7 +17,7 @@ i:Sand.png:Sand-d9d5978dc0a256f30043e96d9a3d66b7.png:592:image/png:1
 i:Schine2.png:Schine2-2c7c31373e69c2ffb3776a8c4eb411ef.png:1185:image/png:1
 i:Schine_kurve2.png:Schine_kurve2-7497a9d6e9028f72fa5c2ed38dbbd0ed.png:4753:image/png:1
 i:Schine_kurz.png:Schine_kurz-81bcbaa4ca5fea70e1f9292714b90cd0.png:920:image/png:1
-i:station.png:station-0f3c805693fda68399d8c621a0cb6bec.png:1132:image/png:1
+i:station.png:station-b064acbb1204808338df9551cb040cd7.png:35839:image/png:1
 i:Stein.png:Stein-5548a8737874167cb88dec9475c40c56.png:593:image/png:1
 i:TitleScreen.png:TitleScreen-7a9aa3f5fa9b9b8800f735610e73e51b.png:35506:image/png:1
 i:Wagon.png:Wagon-a00514bd9b91020109f475042cfc0389.png:28727:image/png:1
