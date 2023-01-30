@@ -13,7 +13,7 @@ a:Music/Para_G.mp3:Music/Para_G-c4206aa434a73129040785ef163c439f.mp3:1138519:aud
 a:Music/sounds of the jungle.mp3:Music/sounds of the jungle-814a558081828390dba1ba3a3b5c7fc2.mp3:1033194:audio/mpeg:1
 i:plus_icon.png:plus_icon-bb5844281e9c7f8ce6eecca4c1b73b1f.png:772:image/png:1
 i:Red_sign_icon.png:Red_sign_icon-89b138f5c1e5478f67488027690ae718.png:1540:image/png:1
-i:sand.png:sand-b1c172dabbe72a18171ec2db385f990e.png:26563:image/png:1
+i:Sand.png:Sand-b1c172dabbe72a18171ec2db385f990e.png:26563:image/png:1
 i:Schine2.png:Schine2-2c7c31373e69c2ffb3776a8c4eb411ef.png:1185:image/png:1
 i:Schine_kurve2.png:Schine_kurve2-7497a9d6e9028f72fa5c2ed38dbbd0ed.png:4753:image/png:1
 i:Schine_kurz.png:Schine_kurz-81bcbaa4ca5fea70e1f9292714b90cd0.png:920:image/png:1
